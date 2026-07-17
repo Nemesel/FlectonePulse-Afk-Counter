@@ -1,3 +1,5 @@
+🇬🇧 **English** | [🇷🇺 Русский](README.ru.md)
+
 # FlectonePulse AFK Counter
 
 Adds PlaceholderAPI placeholders for AFK statistics using FlectonePulse.
