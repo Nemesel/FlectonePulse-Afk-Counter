@@ -1,0 +1,27 @@
+name: FlectonePulse-Afk-Counter
+version: '2026.07.16_2'
+
+main: flectonepulseafkcounter.PulseAfkCounterPlugin
+
+api-version: '1.21'
+
+author: Vibecoded by Nemesel
+description: >
+  Provides PlaceholderAPI placeholders for online player count,
+  AFK player count and AFK percentage using FlectonePulse.
+
+depend:
+  - FlectonePulse
+  - PlaceholderAPI
+
+permissions:
+  fpafkcounter.use:
+    description: Allows use of Pulse AFK placeholders.
+    default: true
+
+commands:
+  fpafkcounter:
+    description: Shows information about FlectonePulse-Afk-Counter.
+    usage: /fpafkcounter
+    aliases:
+      - flectonepulse-afk-counter
