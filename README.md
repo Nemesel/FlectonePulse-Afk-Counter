@@ -1,4 +1,4 @@
-🇬🇧 **English** | [🇷🇺 Русский](README.ru.md)
+🇬🇧 **English** | [🇷🇺 Русский](README-RU.md)
 
 # FlectonePulse AFK Counter
 
