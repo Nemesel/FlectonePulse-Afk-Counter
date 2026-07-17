@@ -9,7 +9,6 @@ Adds PlaceholderAPI placeholders for AFK statistics using FlectonePulse.
 - AFK player count
 - Online player count
 - AFK percentage
-- Custom decimal precision
 
 ## Requirements:
 
