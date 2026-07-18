@@ -3,7 +3,7 @@
 
 # FlectonePulse AFK Counter
 
-Добавляет плейсхолдеры PlaceholderAPI для получения статистики AFK из FlectonePulse.
+Добавляет плейсхолдеры для получения статистики AFK из FlectonePulse.
 
 ## Возможности
 
