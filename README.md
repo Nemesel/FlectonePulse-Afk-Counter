@@ -2,7 +2,7 @@
 
 # FlectonePulse AFK Counter
 
-Adds PlaceholderAPI placeholders for AFK statistics using FlectonePulse.
+Adds placeholders for AFK statistics using FlectonePulse.
 
 ## Features:
 
