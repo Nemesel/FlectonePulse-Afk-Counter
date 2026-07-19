@@ -14,8 +14,8 @@
 ## Требования
 
 - Java 25+
-- PlaceholderAPI
-- FlectonePulse 1.11+
+- [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
+- [FlectonePulse 1.11+](https://github.com/Flectone/FlectonePulse)
 
 ## Команды
 
