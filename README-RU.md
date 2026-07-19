@@ -17,6 +17,21 @@
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
 - [FlectonePulse 1.11+](https://github.com/Flectone/FlectonePulse)
 
+## Установка
+
+1. Скачайте `FlectonePulse-Afk-Counter.jar`.
+
+2. Поместите файл в папку `plugins` вашего сервера.
+
+3. Убедитесь, что установлены:
+   - Java 25+
+   - PlaceholderAPI
+   - FlectonePulse 1.11+
+
+4. Перезапустите сервер.
+
+5. Используйте плейсхолдеры FlectonePulse-Afk-Counter в плагинах, поддерживающих PlaceholderAPI.
+
 ## Команды
 
 ```text
