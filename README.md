@@ -19,11 +19,8 @@ Adds placeholders for AFK statistics using FlectonePulse.
 ## Installation
 
 1. Download `FlectonePulse-Afk-Counter.jar`.
-
 2. Place the file into your server's `plugins` folder.
-
 3. Restart the server.
-
 4. Use the provided PlaceholderAPI placeholders in supported plugins.
 
 ## Commands:
