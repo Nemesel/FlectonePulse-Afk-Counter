@@ -23,14 +23,9 @@
 
 2. Поместите файл в папку `plugins` вашего сервера.
 
-3. Убедитесь, что установлены:
-   - Java 25+
-   - PlaceholderAPI
-   - FlectonePulse 1.11+
+3. Перезапустите сервер.
 
-4. Перезапустите сервер.
-
-5. Используйте плейсхолдеры FlectonePulse-Afk-Counter в плагинах, поддерживающих PlaceholderAPI.
+4. Используйте плейсхолдеры FlectonePulse Afk Counter в плагинах, поддерживающих PlaceholderAPI.
 
 ## Команды
 
